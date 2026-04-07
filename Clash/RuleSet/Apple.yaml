@@ -1,3 +1,4 @@
+### fork from https://raw.githubusercontent.com/SukkaW/Surge/master/Source/non_ip/apple_services.conf
 payload:
   # $ meta_title Sukka's Ruleset - Apple Domains
   # $ meta_description This file contains domains of Apple, Inc.
